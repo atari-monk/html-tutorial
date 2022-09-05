@@ -65,3 +65,15 @@ in page code one can see live server javascript addons
 lesson04:
 lists
 colapse head section
+highlight some section
+ctrl+D to highlight same section below
+type li press tab
+to replace sections with list (here)
+li - list element
+ol - ordered list
+ul - unordered list
+li - dosnt create extra space between lines
+unless p is in the li
+dl - description list
+dt - description term
+dd- description detail
