@@ -77,3 +77,21 @@ unless p is in the li
 dl - description list
 dt - description term
 dd- description detail
+
+lesson05:
+link - head resources
+a - link pages
+href - absolute text ip address for other servers
+- relative path on same server, project
+lorem*1 - adds placeholder text
+section - divides page into sections
+with attribute id (name)
+nav - navigation, for ex. on list with a (anchors) 
+# - before id name in href to section
+only # goes to nav
+in anchor (a) text place shortest possible desc of destination page
+download - in a lets download some resource
+mailto: - mail in href, not used since crawlers colect mails, contact forms instead
+tel:
+target="_blank" - link opens new tab
+/ - in href links to default page in same folder
