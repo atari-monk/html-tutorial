@@ -1,0 +1,67 @@
+resources:
+
+https://github.com/gitdagray/html_course
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+intro:
+
+https://chrome.google.com/webstore
+
+install chrome extension dark new tab
+
+install VSC extension prettier - code formatter
+
+install VSC extension vscode-icons
+
+install VSC extension github theme, set dark default
+
+install VSC extension live server, a must
+click go live, gives live page on address for example:
+http://127.0.0.1:5500/lesson01/index.html
+
+https://validator.w3.org/nu/#file
+use this page for validation of the html code 
+
+lesson01:
+
+index.html - lower case convention for hosting reasons
+html - html page
+head - metadata on the page
+body - seen in browser
+h1 - header
+p - paragraph, write p and hit tab
+
+lesson02:
+
+meta author
+meta desc
+alt+z to Word Wrap in vscode
+icon
+
+lesson03:
+text
+alt+z on new file
+shift + alt + down - copy line or many lines
+h1 title, h2 topic, h3 subtopic
+headers give hierarchy to content
+hr - line
+white space collapsing in html
+<br> - line break
+block element - breaks line, like p, h1
+inline element - dosnt break line like em - emphasise, strong - strong emphasise
+abbr - tooltip with expand of abbrevietion
+html entity - special chars
+&nbsp; - space
+&lt; - <
+&copy; - copy right symbol
+address - paragraph with address
+<!-- --> - comment
+ctr+u or inspect in browser shows page code so also comments
+in page code one can see live server javascript addons
+
+lesson04:
+lists
+colapse head section
