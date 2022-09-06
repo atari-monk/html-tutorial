@@ -122,3 +122,28 @@ https://www.irfanview.com/
 canva.com
 tinypng.com
 
+lesson07:
+semantic tags
+h1 - one per page, title
+h2 - subtopic
+h1 to h3 per page
+nav
+hr - topic change
+header - header of the page
+main - marks main page content
+footer - footer of a page
+multiple nav should be labeled
+article - clear topic with h2
+can contain sections with h3
+aside
+details
+summary
+mark - highlight text
+time - with datetime attribute
+div - dividers, do not use them
+as they dont provide meaning to assistive technology
+span - as div, use only when no other semantic element
+with more meaning
+html outliner - chrome extension
+
+lesson08:
