@@ -147,3 +147,20 @@ with more meaning
 html outliner - chrome extension
 
 lesson08:
+tables structure data
+do not use them as page layout as in 90's
+table -
+tr - table row
+td - table data
+shift alt down arrow on selected row helps
+to see table css is needed
+table expands to it's content, not to width of page
+th - table headings
+colspan, rowspan - attributes
+semantics of table
+table
+caption
+thead
+tbody
+tfoot
+scope - th attribute row or column
