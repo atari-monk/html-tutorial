@@ -175,3 +175,7 @@ select, shift alt arow,
 ctr+d to select text duplicates below
 dont send sensitive info with get
 they are in url
+
+lesson10:
+beginner project
+https://emojipedia.org/
