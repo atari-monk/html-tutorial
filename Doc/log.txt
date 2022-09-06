@@ -164,3 +164,14 @@ thead
 tbody
 tfoot
 scope - th attribute row or column
+
+lesson09:
+input forms
+add nav section
+add article, h2
+form - with action, method
+again on text
+select, shift alt arow, 
+ctr+d to select text duplicates below
+dont send sensitive info with get
+they are in url
