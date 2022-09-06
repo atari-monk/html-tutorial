@@ -1,5 +1,7 @@
 resources:
 
+https://youtu.be/kUMe1FH4CHE
+
 https://github.com/gitdagray/html_course
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
@@ -95,3 +97,28 @@ mailto: - mail in href, not used since crawlers colect mails, contact forms inst
 tel:
 target="_blank" - link opens new tab
 / - in href links to default page in same folder
+
+lesson06:
+img tab - for img markup
+alt - text if img is not reachable
+title - text in tooltip on img
+width
+height - tell browser default img size so it dosent shift it
+loading - eager is default, lazy - loads only when scrolling
+br*150 - types 150 break lines
+check how it is loaded with scrolling and not on page load
+in google chrome dev tools, where u can disable cache
+and see what img are loaded in network tab
+lazy is better preformance
+figure - html element used with img
+and figcaption element (desc)
+single ' can be used inside ""
+code - element for code display
+
+Resource:
+
+https://loremipsum.io/21-of-the-best-placeholder-image-generators/
+https://www.irfanview.com/
+canva.com
+tinypng.com
+
