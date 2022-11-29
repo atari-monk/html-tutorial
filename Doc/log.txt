@@ -179,3 +179,4 @@ they are in url
 lesson10:
 beginner project
 https://emojipedia.org/
+every tag of html has inteli sense, just type name and press tab
